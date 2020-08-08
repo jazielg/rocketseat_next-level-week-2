@@ -1,6 +1,6 @@
 ### 1 - Acelerando sua evolução
 
-// JSX - JavaScript + XML
+// JSX = JavaScript + XML
 
 yarn create react-app web --template typescript
 npx create-react-app web --template typescript
@@ -48,3 +48,16 @@ yarn add @react-navigation/native
 expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
 yarn add @react-navigation/stack
 yarn add @react-navigation/bottom-tabs
+
+
+### 5 - A milha extra
+
+# Link to whatsapp (WhatsApp deep link)
+
+# Armazenar dados no storage do smartphone (expo async storage: https://docs.expo.io/versions/latest/sdk/async-storage/)
+expo install @react-native-community/async-storage
+
+# Desafio 1 - Adicionar select no form de pesquisa de "Proffys disponíveis" (Utilizar React Native Picker)
+
+https://docs.expo.io/versions/latest/sdk/picker/
+https://github.com/react-native-community/react-native-picker
