@@ -1,32 +1,38 @@
 # Rocketseat Next Level Week #2
 
 <h1 align="center">
-    <img alt="Home" title="Example" src=".github/web_home.jpg" width="200px" />
-    <img alt="Study" title="Example" src=".github/web_study.jpg" width="200px" />
-    <img alt="Give Classes" title="Example" src=".github/web_give-classes.jpg" width="200px" />
+    <img alt="Home" title="Example" src=".github/web_home.png" width="250px" />
+    <img alt="Study" title="Example" src=".github/web_study.png" width="250px" />
+    <img alt="Give Classes" title="Example" src=".github/web_give-classes.png" width="250px" />
 </h1>
 
 <h1 align="center">
-    <img alt="Home" title="Example" src=".github/mobile_home.jpg" width="100px" />
-    <img alt="Give Classes" title="Example" src=".github/mobile_give-classes.jpg" width="100px" />
-    <img alt="Search" title="Example" src=".github/mobile_search-proffys.jpg" width="100px" />
-    <img alt="List" title="Example" src=".github/mobile_list-proffys.jpg" width="100px" />
-    <img alt="Favorites" title="Example" src=".github/mobile_favorites.jpg" width="100px" />
+    <img alt="Home" title="Example" src=".github/mobile_home.jpg" width="150px" />
+    <img alt="Give Classes" title="Example" src=".github/mobile_give-classes.jpg" width="150px" />
+    <img alt="Search" title="Example" src=".github/mobile_search-proffys.jpg" width="150px" />
+    <img alt="List" title="Example" src=".github/mobile_list-proffys.jpg" width="150px" />
+    <img alt="Favorites" title="Example" src=".github/mobile_favorites.jpg" width="150px" />
 </h1>
+
+## 💻 Projeto
+
+Projeto desenvolvido no evento "Next Level Week 2" da [Rocketseat](https://rocketseat.com.br/).
+
+Proffy é uma plataforma que conecta o aluno com o professor.
 
 ## :rocket: Tecnologias
 
-Esse projeto utiliza as seguintes tecnologias:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- Node.js
-- TypeScript
-- React
-- React Native
-- Expo
+- [Node.js](https://nodejs.org/en/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.io/)
 
 ## :information_source: Como usar
 
-Para clonar essa aplicação, você vai precisar de Git, Node.js v12 e Yarn instalado.
+Para clonar essa aplicação, você vai precisar de [Git](https://git-scm.com/), Node.js v12 e [Yarn](https://yarnpkg.com/) instalado.
 
 ### Instalar API
 
@@ -70,6 +76,6 @@ yarn install
 yarn start
 ```
 
-## Desafio para melhorar a aplicação
+## 🤔 Desafio para melhorar a aplicação
 
 `https://www.notion.so/Vers-o-2-0-Proffy-eefca1b981694cd0a895613bc6235970`
