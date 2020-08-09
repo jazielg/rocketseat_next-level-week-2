@@ -58,6 +58,10 @@ yarn add @react-navigation/bottom-tabs
 expo install @react-native-community/async-storage
 
 # Desafio 1 - Adicionar select no form de pesquisa de "Proffys disponíveis" (Utilizar React Native Picker)
+# Dasefio 2 - Utilizar o ContextApi para remover/adicionar o simbolo de favorito
 
 https://docs.expo.io/versions/latest/sdk/picker/
 https://github.com/react-native-community/react-native-picker
+
+# Desafio
+https://www.notion.so/Vers-o-2-0-Proffy-eefca1b981694cd0a895613bc6235970
