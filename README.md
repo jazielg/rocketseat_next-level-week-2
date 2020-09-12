@@ -18,7 +18,7 @@
 
 Projeto desenvolvido no evento "Next Level Week 2" da [Rocketseat](https://rocketseat.com.br/).
 
-Proffy é uma plataforma que conecta o aluno com o professor.
+O Proffy é uma plataforma de estudos online que ajuda pessoas a encontrarem professores online.
 
 ## :rocket: Tecnologias
 
@@ -79,3 +79,11 @@ yarn start
 ## 🤔 Desafio para melhorar a aplicação
 
 `https://www.notion.so/Vers-o-2-0-Proffy-eefca1b981694cd0a895613bc6235970`
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
+
+<sup>Projeto desenvolvido com a tutoria de [Diego Fernandes](https://github.com/diego3g), da [Rocketseat](https://rocketseat.com.br/).</sup>
